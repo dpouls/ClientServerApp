@@ -1,0 +1,7 @@
+C:\Users\dalli\source\repos\ClientServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\dalli\source\repos\ClientServerApp\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\dalli\source\repos\ClientServerApp\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\dalli\source\repos\ClientServerApp\ServerApp\obj\Debug\ServerApp.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\ClientServerApp\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\ClientServerApp\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\dalli\source\repos\ClientServerApp\ServerApp\obj\Debug\ServerApp.pdb

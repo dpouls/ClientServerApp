@@ -1,0 +1,10 @@
+C:\Users\dalli\source\repos\ClientServerApp\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\dalli\source\repos\ClientServerApp\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\dalli\source\repos\ClientServerApp\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\dalli\source\repos\ClientServerApp\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\ClientServerApp\ClientApp\obj\Debug\ClientApp.ClientForm.resources
+C:\Users\dalli\source\repos\ClientServerApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\dalli\source\repos\ClientServerApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\dalli\source\repos\ClientServerApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\ClientServerApp\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\dalli\source\repos\ClientServerApp\ClientApp\obj\Debug\ClientApp.pdb
